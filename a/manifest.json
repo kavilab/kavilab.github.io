@@ -1,0 +1,21 @@
+{
+    "name": "Kavi-A",
+    "short_name": "Kavi-A",
+    "icons": [{
+            "src": "./img/icons/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/icons/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": "/a/",
+    "display": "fullscreen",
+    "background_color": "#000000",
+    "theme_color": "#364250",
+    "orientation": "portrait"
+
+}
