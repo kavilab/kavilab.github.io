@@ -1,6 +1,6 @@
 {
-    "name": "Kavi-A",
-    "short_name": "Kavi-A",
+    "name": "Kavi-B",
+    "short_name": "Kavi-B",
     "icons": [{
             "src": "./img/icons/android-chrome-192x192.png",
             "sizes": "192x192",
@@ -12,7 +12,7 @@
             "type": "image/png"
         }
     ],
-    "start_url": "/a/",
+    "start_url": "/b/",
     "display": "fullscreen",
     "background_color": "#000000",
     "theme_color": "#364250",
