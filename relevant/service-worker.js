@@ -174,10 +174,10 @@ define("./service-worker.js",['./workbox-176fe0b1'], (function (workbox) { 'use 
     "revision": "68df7aa638dffcffa3c22921db23ff6c"
   }, {
     "url": "/relevant/js/app.js",
-    "revision": "bb639fa1f92212be975e64231a5ce6fd"
+    "revision": "0c29b78a74553e0996fccd8e4133ff87"
   }, {
     "url": "/relevant/js/chunk-vendors.js",
-    "revision": "2ffbe683cc3a395c444df904c897eb1c"
+    "revision": "377e62486337803afc31f7fbd61d6e35"
   }, {
     "url": "/relevant/manifest.json",
     "revision": "eeece3ddecb2987b9af8594874357607"
