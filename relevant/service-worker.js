@@ -165,22 +165,22 @@ define("./service-worker.js",['./workbox-176fe0b1'], (function (workbox) { 'use 
     "revision": "058a3335d15a3eb84e7ae3707ba09620"
   }, {
     "url": "/relevant/img/icons/safari-pinned-tab.svg",
-    "revision": "f22d501a35a87d9f21701cb031f6ea17"
+    "revision": "f78c0251d6ddd56ee219a1830ded71b4"
   }, {
     "url": "/relevant/img/logo.3b17e764.png",
     "revision": "3b17e764acccc5b4689764647c285785"
   }, {
     "url": "/relevant/index.html",
-    "revision": "68df7aa638dffcffa3c22921db23ff6c"
+    "revision": "03296ccae9fa5252e0e9a725b9ebf5d3"
   }, {
     "url": "/relevant/js/app.js",
-    "revision": "0c29b78a74553e0996fccd8e4133ff87"
+    "revision": "5865bca96ea88b49e74478b473ddd57c"
   }, {
     "url": "/relevant/js/chunk-vendors.js",
     "revision": "377e62486337803afc31f7fbd61d6e35"
   }, {
     "url": "/relevant/manifest.json",
-    "revision": "eeece3ddecb2987b9af8594874357607"
+    "revision": "3cebf112d38a54952ead326359726e23"
   }], {});
 
 }));
